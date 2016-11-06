@@ -11,6 +11,7 @@ type
   uint = LongWord;
   int = Integer;
   short = Word;
+  int64_t = Int64;
 
   ChakraCookie = ^LongWord;
   ChakraBytePtr = ^Byte;
